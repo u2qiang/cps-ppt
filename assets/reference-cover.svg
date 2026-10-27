@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <rect width="1280" height="720" fill="#FFFFFF"/>
+  <circle cx="1150" cy="90" r="240" fill="#EFF6FF"/>
+  <circle cx="120" cy="690" r="180" fill="#F6F9FF"/>
+
+  <rect x="60" y="70" width="6" height="30" rx="3" fill="#2563EB"/>
+  <text x="80" y="94" font-family='"Microsoft YaHei", "PingFang SC", Arial, sans-serif' font-size="16" font-weight="bold" letter-spacing="2" fill="#2563EB">2026 考研 · 计算机学科专业基础综合</text>
+
+  <text x="60" y="210" font-family='"Microsoft YaHei", "PingFang SC", Arial, sans-serif' font-size="66" font-weight="bold" fill="#1E293B">
+    <tspan x="60" dy="0">2026 考研计算机</tspan>
+    <tspan x="60" dy="86">408 知识点总结</tspan>
+  </text>
+
+  <text x="60" y="380" font-family='"Microsoft YaHei", "PingFang SC", Arial, sans-serif' font-size="24" fill="#475569">数据结构 · 计算机组成原理 · 操作系统 · 计算机网络</text>
+
+  <rect x="60" y="420" width="300" height="52" rx="26" fill="#EFF6FF"/>
+  <text x="90" y="453" font-family='"Microsoft YaHei", "PingFang SC", Arial, sans-serif' font-size="20" font-weight="bold" fill="#2563EB">150 分 · 180 分钟</text>
+
+  <line x1="60" y1="520" x2="620" y2="520" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="60" y="556" font-family='"Microsoft YaHei", "PingFang SC", Arial, sans-serif' font-size="14" fill="#64748B">教材精读 + 真题三轮 + 计算题专项 · 概念—计算—真题</text>
+
+  <rect x="720" y="150" width="216" height="158" rx="16" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+  <rect x="748" y="178" width="44" height="44" rx="12" fill="#EFF6FF"/>
+  <use data-icon="tabler-outline/stack-2" x="759" y="189" width="22" height="22" fill="#2563EB"/>
+  <text x="748" y="252" font-family='"Microsoft YaHei", "PingFang SC", Arial, sans-serif' font-size="20" font-weight="bold" fill="#1E293B">数据结构</text>
+  <text x="748" y="280" font-family='"Microsoft YaHei", "PingFang SC", Arial, sans-serif' font-size="14" fill="#64748B">45 分 · 约 30%</text>
+
+  <rect x="964" y="150" width="216" height="158" rx="16" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+  <rect x="992" y="178" width="44" height="44" rx="12" fill="#CFFAFE"/>
+  <use data-icon="tabler-outline/cpu" x="1003" y="189" width="22" height="22" fill="#0891B2"/>
+  <text x="992" y="252" font-family='"Microsoft YaHei", "PingFang SC", Arial, sans-serif' font-size="20" font-weight="bold" fill="#1E293B">组成原理</text>
+  <text x="992" y="280" font-family='"Microsoft YaHei", "PingFang SC", Arial, sans-serif' font-size="14" fill="#64748B">45 分 · 约 30%</text>
+
+  <rect x="720" y="336" width="216" height="158" rx="16" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+  <rect x="748" y="364" width="44" height="44" rx="12" fill="#FEF3C7"/>
+  <use data-icon="tabler-outline/settings" x="759" y="375" width="22" height="22" fill="#F59E0B"/>
+  <text x="748" y="438" font-family='"Microsoft YaHei", "PingFang SC", Arial, sans-serif' font-size="20" font-weight="bold" fill="#1E293B">操作系统</text>
+  <text x="748" y="466" font-family='"Microsoft YaHei", "PingFang SC", Arial, sans-serif' font-size="14" fill="#64748B">35 分 · 约 23%</text>
+
+  <rect x="964" y="336" width="216" height="158" rx="16" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+  <rect x="992" y="364" width="44" height="44" rx="12" fill="#EFF6FF"/>
+  <use data-icon="tabler-outline/network" x="1003" y="375" width="22" height="22" fill="#2563EB"/>
+  <text x="992" y="438" font-family='"Microsoft YaHei", "PingFang SC", Arial, sans-serif' font-size="20" font-weight="bold" fill="#1E293B">计算机网络</text>
+  <text x="992" y="466" font-family='"Microsoft YaHei", "PingFang SC", Arial, sans-serif' font-size="14" fill="#64748B">25 分 · 约 17%</text>
+
+  <text x="60" y="680" font-family='"Microsoft YaHei", "PingFang SC", Arial, sans-serif' font-size="12" fill="#64748B">2026 考研计算机 408 · 知识点总结</text>
+  <text x="1220" y="680" text-anchor="end" font-family='"Microsoft YaHei", "PingFang SC", Arial, sans-serif' font-size="12" fill="#64748B">01 / 16</text>
+</svg>

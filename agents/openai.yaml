@@ -1,0 +1,4 @@
+interface:
+  display_name: "CPS-PPT"
+  short_description: "Clean professional 16:9 slide deck generation."
+  default_prompt: "Use CPS-PPT to turn this source material into a clean professional slide deck."
